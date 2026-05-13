@@ -23,4 +23,4 @@ When the tilt exceeds a critical angle:
 Add your Wokwi project link here.
 
 ## Author
-Your Name
+Suleiman Yahaya
